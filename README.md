@@ -1,2 +1,13 @@
-TODO
-- Implement transformation pipeline
+## Implementation of various recommendation algorithms for one class collaborative filtering algorithms
+	- Linear models
+		- Neighborhood model
+			- Item KNN
+			- User Knn
+		- Regression based model
+			- SLIM
+			- Linear model
+	- Bilinear models
+		- BiasedMF
+		- MF
+		- PureSVD
+		- WRMF
