@@ -7,10 +7,10 @@ from pyrec.parallel.ipythonParallelLinear import ParallelRunner
 
 
 
-class LRec(BaseLinear):
+class Linear(BaseLinear):
 
     def __init__(self, arg):
-        super(LRec, self).__init__()
+        super(Linear, self).__init__()
         self.arg = arg
         self.target = None
         self.__initargs()

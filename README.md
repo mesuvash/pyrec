@@ -1,4 +1,4 @@
-## Implementation of various recommendation algorithms for one class collaborative filtering algorithms
+## Implementation of various recommendation algorithms for one class collaborative filtering 
 	- Linear models
 		- Neighborhood model
 			- Item KNN
