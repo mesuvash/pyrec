@@ -19,3 +19,5 @@
 
 ## Setup
 	- python setup.py instal
+
+Refer the examples folder to get started.
