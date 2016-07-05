@@ -18,6 +18,6 @@
 	- progressbar
 
 ## Setup
-	- python setup.py instal
+	- python setup.py install
 
 Refer the examples folder to get started.
