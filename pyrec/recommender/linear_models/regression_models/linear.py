@@ -5,8 +5,6 @@ from pyrec.recommender.linear_models.regression_models.base import BaseLinear
 from pyrec.parallel.ipythonParallelLinear import ParallelRunner
 
 
-
-
 class Linear(BaseLinear):
 
     def __init__(self, arg):
@@ -72,4 +70,3 @@ class Linear(BaseLinear):
             return reco.todense()
         else:
             return reco
-Status API Training Shop Blog About
