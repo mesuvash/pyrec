@@ -11,3 +11,11 @@
 		- MF
 		- PureSVD
 		- WRMF
+
+##Dependencies
+	- sklearn
+	- envoy
+	- progressbar
+
+## Setup
+	- python setup.py instal

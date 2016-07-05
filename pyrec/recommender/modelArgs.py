@@ -42,7 +42,6 @@ class LinearArgs(args):
         super(LinearArgs, self).__init__()
         self.l2 = l2
         self.model_type = model_type
-k
 
 
 class WRMFArgs(args):
